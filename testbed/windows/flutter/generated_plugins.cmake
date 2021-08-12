@@ -4,6 +4,7 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   menubar
+  webview_windows
   window_size
 )
 
